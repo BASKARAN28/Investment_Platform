@@ -1,0 +1,55 @@
+
+  .hd2{
+    margin: 40px;
+  }
+  .h{
+    text-align: left;
+    margin:0px 1520px;
+    color: white;
+  }
+  .h1{
+    color: white;
+  }
+.bdy{
+  display: flex;
+  flex-direction: row;
+  
+}
+.img
+{
+  border-radius: 3%;
+  width: 38%;
+  max-height: 50%;
+  margin: 60px 0px 50px 50px;
+}
+.pra{
+  margin: 30px 0px 0px 30px;
+  font-size: 150%;
+  color: rgb(150, 83, 20);
+}
+.hd{
+  margin: 30px;
+}
+.bt1{
+  color: rgb(255, 255, 255);
+  background-color: rgb(41, 134, 105);
+  padding: 20px 30px;
+  font-size: large;
+  margin: 30px 0px 0px 370px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.bt2{
+  color: rgb(255, 255, 255);
+  background-color: rgb(41, 134, 105);
+  padding: 20px 30px;
+  font-size: large;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  
+  
+}
+.hd1{
+  margin: 20px 0px 0px 400px;
+}
+.hd3{
+  margin: 20px 0px 0px 30px;
+}
